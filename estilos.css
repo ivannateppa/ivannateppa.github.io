@@ -9,14 +9,14 @@
 }
 
 /*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 /*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
 
 body {
     /*Declaración de tipografía*/
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     /*Declaración de peso de Tipografía*/
-    font-weight: 100;
+    font-weight: 500;
     /*Declaración de color de fondo del body*/
     background-color: black;
     /*Declaración del color de la tipografía en el body*/
